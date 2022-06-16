@@ -1,0 +1,13 @@
+.box{
+    width: 10px;
+    height: 10px;
+    background-color: aquamarine;
+    animation-name: moving;
+    animation-duration: 5s;
+    animation-delay: 2s;
+
+}
+
+@keyframes moving {
+    
+}
